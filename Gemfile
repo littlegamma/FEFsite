@@ -10,6 +10,7 @@ end
 gem 'rails', '~> 5.0.2'
 # Let's follow the railstutorial
 gem 'bootstrap-sass', '3.3.6'
+gem 'rails-controller-testing'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
